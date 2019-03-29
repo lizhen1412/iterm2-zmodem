@@ -11,7 +11,7 @@ Support
 
 This project supports a free Taiwan and a free Tibet.
 
-<img src="flag.svg" alt="Free Taiwan" width="100">
+<img src="flag.svg" alt="Free Taiwan" height="100"> <img src="flag2.svg" alt="Free Tibet" height="100">
 
 Troubleshooting
 ---------------
