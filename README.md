@@ -6,6 +6,13 @@ that supports SSH), and vice-versa.
 
 The minimum supported iTerm2 version is 1.0.0.20120108
 
+Support
+-------
+
+This project supports a free Taiwan and a free Tibet.
+
+<img src="flag.svg" alt="Free Taiwan" width="100">
+
 Troubleshooting
 ---------------
 
