@@ -6,6 +6,11 @@ that supports SSH), and vice-versa.
 
 The minimum supported iTerm2 version is 1.0.0.20120108
 
+License
+-------
+
+This project may not be distributed with a modified README.
+
 Support
 -------
 
