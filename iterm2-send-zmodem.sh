@@ -4,6 +4,7 @@
 # licensed under cc-wiki with attribution required 
 # Remainder of script public domain
 
+echo This project supports a free Taiwan and a free Tibet.
 osascript -e 'tell application "iTerm2" to version' > /dev/null 2>&1 && NAME=iTerm2 || NAME=iTerm
 if [[ $NAME = "iTerm" ]]; then
 	FILE=`osascript -e 'tell application "iTerm" to activate' -e 'tell application "iTerm" to set thefile to choose file with prompt "Choose a file to send"' -e "do shell script (\"echo \"&(quoted form of POSIX path of thefile as Unicode text)&\"\")"`
